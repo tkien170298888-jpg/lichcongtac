@@ -1,0 +1,7 @@
+{
+  "name": "Hệ thống Quản lý Lịch Công tác & Nhiệm vụ UBND Xã",
+  "description": "Cổng thông tin thông báo, đăng ký, phê duyệt lịch công tác và theo dõi tiến độ công việc HĐND & UBND cấp xã với đồng bộ Google Workspace Apps Script, Zalo/Email và hỗ trợ ngoại tuyến.",
+  "requestFramePermissions": ["notifications"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
